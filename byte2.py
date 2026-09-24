@@ -1,7 +1,6 @@
 
 saldo_principal = 1000.0
 
-# 1. Cofrinhos
 cofrinhos = {
     "Reserva": 500.0,
     "Viagem": 200.0
